@@ -1,0 +1,4 @@
+interface:
+  display_name: "OCI Docs Grounded QA"
+  short_description: "Grounded OCI docs answers with citations"
+  default_prompt: "Use Oracle OCI docs only, cite every claim, and abstain when evidence is missing."
